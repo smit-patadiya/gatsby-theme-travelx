@@ -6,7 +6,7 @@
 export default {
   colors: {
     text: "#232129",
-    background: "#fff",
+    background: "#f5f4f0",
     primary: "#639",
   },
   fonts: {
@@ -54,9 +54,12 @@ export default {
       paddingTop: 3,
     },
     h1: {
-      color: "text",
-      fontSize: 5,
-      lineHeight: "heading",
+      padding: '8px',
+      color: '#9bccbb',
+      borderBbottom: '2px solid',
+      borderRight: 'none',
+      borderRadius: '0px 0px 56px 0px',
+      background: '#ffffff'
     },
   },
 }

@@ -2,7 +2,7 @@
 
 This is a bare-bones Gatsby theme to showcase how a [Theme Jam](https://themejam.gatsbyjs.org) submission should look.
 
-See the [live demo](https://gatsby-theme-jam-example.netlify.com)
+See the [live demo](https://gatsby-theme-travelx.netlify.com)
 
 ## Installation
 
@@ -10,14 +10,14 @@ To use this theme in your Gatsby sites, follow these instructions:
 
 1.  Install the theme
     ```sh
-    npm install --save gatsby-theme-jam-example
+    npm install --save gatsby-theme-travelx
     ```
 
 2.  Add the theme to your `gatsby-config.js`:
     ```js
     module.exports = {
       plugins: [
-        'gatsby-theme-jam-example'
+        'gatsby-theme-travelx'
       ]
     }
     ```
